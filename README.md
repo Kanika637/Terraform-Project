@@ -10,4 +10,5 @@ Configure the main.tf for AWS infrastructure
 -> Network Interface <br>
 -> EIP <br>
 -> Servers <br>
+-> EKS Cluster <br>
 
